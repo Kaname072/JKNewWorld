@@ -1,5 +1,5 @@
 
-game2.png
+game3.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -49,6 +49,13 @@ NationIcons/United States of America
 NationIcons/Brazil
   rotate: false
   xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Iran
+  rotate: false
+  xy: 700, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
