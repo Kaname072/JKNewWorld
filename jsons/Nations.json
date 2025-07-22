@@ -1,5 +1,40 @@
 [
 	{
+		"name": "USA",
+		"leaderName": "Donald Trump",
+		"adjective": ["americans"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "After years, the new chinese republic return to each your glorious",
+		"startIntroPart2": "We are go to the glorious days!!",
+		
+		"declaringWar": "This is war!",
+		"attacked": "This is nothing!",
+		"defeated": "Is sad... the russian pride never die! is just begin now",
+		"introduction": "We are russian! hello for your nation",
+		
+		"neutralHello": "Hello my friend",
+		"neutralLetsHearIt": ["Go on.","When?","What you need?"],
+		"neutralNo": ["No","I refuse this!","Nah"],
+		"neutralYes": ["Good enough","Very nice","Yes"],
+
+		"hateHello": "Ah... is you...",
+		"hateLetsHearIt": ["Is You...","What you say?","Come on..."],
+		"hateNo": ["Not again!","NO","No more..."],
+		"hateYes": ["Fine...","Go on...","Yes..."],
+		
+		"afterPeace": "Very well...",
+		"tradeRequest": "accept this trade offer?",
+
+		"outerColor": [255,255,255],
+		"innerColor": [0,85,255],
+		"uniqueName": "Make Great Again",
+		"uniques": ["[+2 Gold] from each Trade Route","[+10]% [Gold] [in all cities] <during a Golden Age>"],
+		"cities": ["Pequim","Xangai","Cantão","Chengdu","Wuhan","Xi'an","Hangzhou","Nanquim",
+			"Zhengzhou","Jinan, Hefei","Fuzhou, Changsha","Kunming","Shenyang","Harbin"]
+	},
+	{
 		"name": "Russia Federation",
 		"leaderName": "Vladimir Putin",
 		"adjective": ["russian"],
