@@ -12,7 +12,7 @@
 		"declaringWar": "This is war!",
 		"attacked": "This is nothing!",
 		"defeated": "Is sad... the russian pride never die! is just begin now",
-		"introduction": "We are russian! hello for your nation",
+		"introduction": "Hello from america!",
 		
 		"neutralHello": "Hello my friend",
 		"neutralLetsHearIt": ["Go on.","When?","What you need?"],
@@ -83,7 +83,7 @@
 		"declaringWar": "This is war!",
 		"attacked": "This is nothing!",
 		"defeated": "Is sad... the russian pride never die! is just begin now",
-		"introduction": "We are russian! hello for your nation",
+		"introduction": "Ni Hao for your nation",
 		
 		"neutralHello": "Hello my friend",
 		"neutralLetsHearIt": ["Go on.","When?","What you need?"],
@@ -101,7 +101,7 @@
 		"outerColor": [238,28,27],
 		"innerColor": [255,255,0],
 		"uniqueName": "Commercial Control",
-		"uniques": ["[+2 Science] from each Trade Route","[+10]% [Science] [in all cities] <during a Golden Age>"],
+		"uniques": ["[+2 Science] from each Trade Route","[+20]% [Science] [in capital] <during a Golden Age>"],
 		"cities": ["Pequim","Xangai","Cantão","Chengdu","Wuhan","Xi'an","Hangzhou","Nanquim",
 			"Zhengzhou","Jinan, Hefei","Fuzhou, Changsha","Kunming","Shenyang","Harbin"]
 	},
@@ -118,7 +118,7 @@
 		"declaringWar": "This is war!",
 		"attacked": "This is nothing!",
 		"defeated": "Is sad... the russian pride never die! is just begin now",
-		"introduction": "We are russian! hello for your nation",
+		"introduction": "Bom dia for your nation",
 		
 		"neutralHello": "Hello my friend",
 		"neutralLetsHearIt": ["Go on.","When?","What you need?"],
@@ -133,8 +133,8 @@
 		"afterPeace": "Very well...",
 		"tradeRequest": "accept this trade offer?",
 
-		"outerColor": [255,242,18],
-		"innerColor": [0,168,89],
+		"outerColor": [0,168,89],
+		"innerColor": [255,242,18],
 		"uniqueName": "Culture of Peace",
 		"uniques": ["[+2 Culture] from each Trade Route","[+10]% [Culture] [in all cities] <during a Golden Age>"],
 		"cities": ["Brasília","Rio de Janeiro","São Paulo","Belo Horizonte","Salvador","Curitiba","Porto Alegre","Fortaleza",
