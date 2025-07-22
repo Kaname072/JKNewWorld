@@ -133,8 +133,8 @@
 		"afterPeace": "Very well...",
 		"tradeRequest": "accept this trade offer?",
 
-		"outerColor": [238,28,27],
-		"innerColor": [255,255,0],
+		"outerColor": [255,242,18],
+		"innerColor": [0,168,89],
 		"uniqueName": "Culture of Peace",
 		"uniques": ["[+2 Culture] from each Trade Route","[+10]% [Culture] [in all cities] <during a Golden Age>"],
 		"cities": ["Brasília","Rio de Janeiro","São Paulo","Belo Horizonte","Salvador","Curitiba","Porto Alegre","Fortaleza",
