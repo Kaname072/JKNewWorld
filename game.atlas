@@ -4,7 +4,7 @@ size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Breeders
+BuildingIcons/Breeders 
   rotate: false
   xy: 112, 4
   size: 100, 100
@@ -49,6 +49,20 @@ NationIcons/United States of America
 NationIcons/Brazil
   rotate: false
   xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Pandas Park
+  rotate: false
+  xy: 0, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Panda
+  rotate: false
+  xy: 100, 10
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
