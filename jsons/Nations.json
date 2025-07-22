@@ -31,8 +31,8 @@
 		"innerColor": [0,85,255],
 		"uniqueName": "Make Great Again",
 		"uniques": ["[+2 Gold] from each Trade Route","[+10]% [Gold] [in all cities] <during a Golden Age>"],
-		"cities": ["Pequim","Xangai","Cantão","Chengdu","Wuhan","Xi'an","Hangzhou","Nanquim",
-			"Zhengzhou","Jinan, Hefei","Fuzhou, Changsha","Kunming","Shenyang","Harbin"]
+		"cities": ["Washington","Sacramento","Austin","Tallahassee","Atlanta","Boston","Denver","Olympia","Phoenix",
+			"Nashville","Springfield","Boise","Juneau","Honolulu","Richmond","Santa Fé"]
 	},
 	{
 		"name": "Russia Federation",
@@ -104,5 +104,40 @@
 		"uniques": ["[+2 Science] from each Trade Route","[+10]% [Science] [in all cities] <during a Golden Age>"],
 		"cities": ["Pequim","Xangai","Cantão","Chengdu","Wuhan","Xi'an","Hangzhou","Nanquim",
 			"Zhengzhou","Jinan, Hefei","Fuzhou, Changsha","Kunming","Shenyang","Harbin"]
+	},
+	{
+		"name": "Brazil",
+		"leaderName": "Luís Inácio Lula da Silva",
+		"adjective": ["brazilians"],
+		"startBias": ["Jungle","Coast"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "After years, the new chinese republic return to each your glorious",
+		"startIntroPart2": "We are go to the glorious days!!",
+		
+		"declaringWar": "This is war!",
+		"attacked": "This is nothing!",
+		"defeated": "Is sad... the russian pride never die! is just begin now",
+		"introduction": "We are russian! hello for your nation",
+		
+		"neutralHello": "Hello my friend",
+		"neutralLetsHearIt": ["Go on.","When?","What you need?"],
+		"neutralNo": ["No","I refuse this!","Nah"],
+		"neutralYes": ["Good enough","Very nice","Yes"],
+
+		"hateHello": "Ah... is you...",
+		"hateLetsHearIt": ["Is You...","What you say?","Come on..."],
+		"hateNo": ["Not again!","NO","No more..."],
+		"hateYes": ["Fine...","Go on...","Yes..."],
+		
+		"afterPeace": "Very well...",
+		"tradeRequest": "accept this trade offer?",
+
+		"outerColor": [238,28,27],
+		"innerColor": [255,255,0],
+		"uniqueName": "Culture of Peace",
+		"uniques": ["[+2 Culture] from each Trade Route","[+10]% [Culture] [in all cities] <during a Golden Age>"],
+		"cities": ["Brasília","Rio de Janeiro","São Paulo","Belo Horizonte","Salvador","Curitiba","Porto Alegre","Fortaleza",
+			"Recife","Manaus","Belém","Goiânia","Campo Grande","Florianópolis","Vitória, Natal"]
 	}
 ]
