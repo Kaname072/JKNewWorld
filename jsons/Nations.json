@@ -6,13 +6,13 @@
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "After collapse of USSR, the new federerion of russia return to each your glorious",
+		"startIntroPart2": "God bless mom russia! we are go to the glorious days!!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Is you end",
+		"attacked": "this is a joke?",
+		"defeated": "Is sad... the russian pride never die! is just begin now",
+		"introduction": "We are russian! hello for your nation",
 		
 		"neutralHello": "Hello my friend",
 		"neutralLetsHearIt": ["Go on.","When?","What you need?"],
@@ -30,7 +30,7 @@
 		"outerColor": [0,0,0],
 		"innerColor": [239,180,0],
 		"uniqueName": "Imponency",
-		"uniques": ["[+3 Food] from [Snow] tiles [in this city]"],
+		"uniques": ["[+3 Food] from [Snow] tiles [in this city]","[+10]% Production [in all cities]"],
 		"cities": ["Moscow","Petersburg","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk",
 			"Orenburg","Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk",
 			"Irkutsk","Chita","SamaraArkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm"]
