@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Panda",
+		"resourceType": "Luxury",
+		"gold": 2,
+		"uniques": ["[+10]% [Happiness] [in this city]"]
+  }
+]
