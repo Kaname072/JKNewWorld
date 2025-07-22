@@ -62,7 +62,7 @@ BuildingIcons/Pandas Park
   index: -1
 ResourceIcons/Panda
   rotate: false
-  xy: 100, 10
+  xy: 100, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
