@@ -1,6 +1,6 @@
 [
 	{
-		"name": "USA",
+		"name": "United States of America",
 		"leaderName": "Donald Trump",
 		"adjective": ["americans"],
 		"startBias": ["Grassland"],
@@ -27,8 +27,8 @@
 		"afterPeace": "Very well...",
 		"tradeRequest": "accept this trade offer?",
 
-		"outerColor": [255,255,255],
-		"innerColor": [0,85,255],
+		"outerColor": [0,85,255],
+		"innerColor": [255,255,255],
 		"uniqueName": "Make Great Again",
 		"uniques": ["[+2 Gold] from each Trade Route","[+10]% [Gold] [in all cities] <during a Golden Age>"],
 		"cities": ["Washington","Sacramento","Austin","Tallahassee","Atlanta","Boston","Denver","Olympia","Phoenix",
