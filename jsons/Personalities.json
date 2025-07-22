@@ -1,0 +1,160 @@
+[
+  {
+    "name": "Donald Trump",
+      
+      "culture": 4,
+      "faith": 7,
+      "food": 5,
+      "gold": 8,
+      "happiness": 7,
+      "production": 6,
+      "science": 5,
+      "military": 9,
+      "aggressive": 7,
+      "declareWar": 6,
+      "commerce": 8,
+      "diplomacy": 9,
+      "loyal": 7,
+      "expansion": 6,
+
+      "priorities": {
+          "Tradition": 6,
+          "Liberty": 7,
+          "Honor": 5,
+          "Commerce": 7,
+          "Patronage": 6,
+          "Piety": 5,
+          "Rationalism": 7,
+          "Freedom": 8,
+          "Autocracy": 5,
+          "Order": 7
+      }
+  },
+  {
+    "name": "Vladimir Putin",
+      
+      "culture": 7,
+      "faith": 8,
+      "food": 6,
+      "gold": 8,
+      "happiness": 3,
+      "production": 10,
+      "science": 7,
+      "military": 9,
+      "aggressive": 10,
+      "declareWar": 7,
+      "commerce": 5,
+      "diplomacy": 10,
+      "loyal": 9,
+      "expansion": 8,
+
+      "priorities": {
+          "Tradition": 7,
+          "Liberty": 4,
+          "Honor": 7,
+          "Commerce": 5,
+          "Patronage": 3,
+          "Piety": 2,
+          "Rationalism": 8,
+          "Freedom": 3,
+          "Autocracy": 9,
+          "Order": 10
+      }
+  },
+  {
+    "name": "Xi Jiping",
+    
+      "culture": 6,
+      "faith": 2,
+      "food": 7,
+      "gold": 9,
+      "happiness": 2,
+      "production": 11,
+      "science": 10,
+      
+      "military": 7,
+      "aggressive": 6,
+      "declareWar": 5,
+      "commerce": 9,
+      "diplomacy": 11,
+      "loyal": 9,
+      "expansion": 5,
+
+      "priorities": {
+          "Tradition": 8,
+          "Liberty": 5,
+          "Honor": 6,
+          "Commerce": 9,
+          "Patronage": 8,
+          "Piety": 2,
+          "Rationalism": 10,
+          "Freedom": 3,
+          "Autocracy": 5,
+          "Order": 7
+      }
+  },
+  {
+    "name": "Luís Inácio Lula",
+      
+      "culture": 10,
+      "faith": 7,
+      "food": 7,
+      "gold": 5,
+      "happiness": 6,
+      "production": 8,
+      "science": 5,
+      
+      "military": 4,
+      "aggressive": 2,
+      "declareWar": 3,
+      "commerce": 6,
+      "diplomacy": 8,
+      "loyal": 11,
+      "expansion": 4,
+
+      "priorities": {
+          "Tradition": 10,
+          "Liberty": 4,
+          "Honor": 2,
+          "Commerce": 5,
+          "Patronage": 11,
+          "Piety": 9,
+          "Rationalism": 5,
+          "Freedom": 7,
+          "Autocracy": 2,
+          "Order": 4
+      }
+  },
+  {
+    "name": "Ali Khamenei",
+      
+      "culture": 6,
+      "faith": 11,
+      "food": 5,
+      "gold": 6,
+      "happiness": 6,
+      "production": 7,
+      "science": 8,
+      
+      "military": 7,
+      "aggressive": 8,
+      "declareWar": 5,
+      "commerce": 4,
+      "diplomacy": 5,
+      "loyal": 7,
+      "expansion": 3,
+
+      "priorities": {
+          "Tradition": 10,
+          "Liberty": 6,
+          "Honor": 4,
+          "Commerce": 3,
+          "Patronage": 6,
+          "Piety": 7,
+          "Rationalism": 7,
+          "Freedom": 4,
+          "Autocracy": 7,
+          "Order": 4
+      }
+  }
+]
