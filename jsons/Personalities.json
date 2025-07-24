@@ -2,7 +2,7 @@
   {
     "name": "Donald Trump",
       
-      "culture": 4,
+      "culture": 5,
       "faith": 7,
       "food": 5,
       "gold": 8,
@@ -41,7 +41,7 @@
       "production": 10,
       "science": 7,
       "military": 9,
-      "aggressive": 10,
+      "aggressive": 11,
       "declareWar": 7,
       "commerce": 5,
       "diplomacy": 10,
@@ -72,7 +72,7 @@
       "production": 11,
       "science": 10,
       
-      "military": 7,
+      "military": 8,
       "aggressive": 6,
       "declareWar": 5,
       "commerce": 9,
@@ -104,7 +104,7 @@
       "production": 8,
       "science": 5,
       
-      "military": 4,
+      "military": 6,
       "aggressive": 2,
       "declareWar": 3,
       "commerce": 6,
@@ -155,6 +155,38 @@
           "Freedom": 4,
           "Autocracy": 7,
           "Order": 4
+      }
+  },
+  {
+    "name": "Netanyahu",
+    
+      "culture": 7,
+      "faith": 5,
+      "food": 6,
+      "gold": 5,
+      "happiness": 5,
+      "production": 7,
+      "science": 4,
+      
+      "military": 9,
+      "aggressive": 6,
+      "declareWar": 6,
+      "commerce": 7,
+      "diplomacy": 7,
+      "loyal": 9,
+      "expansion": 4,
+
+      "priorities": {
+          "Tradition": 6,
+          "Liberty": 7,
+          "Honor": 4,
+          "Commerce": 5,
+          "Patronage": 6,
+          "Piety": 5,
+          "Rationalism": 7,
+          "Freedom": 6,
+          "Autocracy": 3,
+          "Order": 5
       }
   }
 ]
