@@ -4,5 +4,11 @@
 		"resourceType": "Luxury",
 		"gold": 2,
 		"uniques": ["[+10]% [Happiness] [in this city]"]
-  }
+  },
+	{
+		"name": "Natural Gas",
+		"resourceType": "Strategic",
+		"gold": 3,
+		"uniques": ["[+30]% [Production] [in this city]"
+			}
 ]
