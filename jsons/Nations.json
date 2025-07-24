@@ -182,5 +182,42 @@
 		"uniqueName": "Iran Sovereignty",
 		"uniques": ["[+2 Production] from [Desert] tiles","[+100]% [Uranium] resource production <during a Golden Age>"],
 		"cities": ["Teerã","Ahvaz","Arak, Ardabil","Bandar Abbas","Birjand","Bojnourd","Bushehr","Gorgan","Hamadan","Ilam","Isfahan","Karaj","Kerman","Kermanshah","Khorramabad","Mashhad"]
+	},
+	{
+		"name": "Israel",
+		"leaderName": "Benjamin Netanyahu",
+		"adjective": ["israel"],
+		"startBias": ["Coast","Desert"],
+		"preferredVictoryType": "Scientific",
+		"personality": "Netanyahu",
+		
+		"startIntroPart1": "State of Israel is here and with you greatest faith in your god",
+		"startIntroPart2": "return to each your glorious, We are go to the glorious days!!",
+		
+		"declaringWar": "This is war!",
+		"attacked": "This is nothing!",
+		"defeated": "This is so sad...",
+		"introduction": "Hello! from israel!",
+		
+		"neutralHello": "Hello my friend",
+		"neutralLetsHearIt": ["Go on.","When?","What you need?"],
+		"neutralNo": ["No","I refuse this!","Nah"],
+		"neutralYes": ["Good enough","Very nice","Yes"],
+
+		"hateHello": "Ah... is you...",
+		"hateLetsHearIt": ["Is You...","What you say?","Come on..."],
+		"hateNo": ["Not again!","NO","No more..."],
+		"hateYes": ["Fine...","Go on...","Yes..."],
+		
+		"afterPeace": "Very well...",
+		"tradeRequest": "accept this trade offer?",
+
+		"outerColor": [0,94,184],
+		"innerColor": [255,255,255],
+		"favoredReligion": "Judaism",
+		"uniqueName": "Faith",
+		"uniques": ["[+2 Faith] from [Sheep] tiles [in this city]","[+25]% [Faith] [in all cities] <during a Golden Age>"],
+		"cities": ["Jerusalém", "Tel Aviv", "Haifa", "Rishon LeZion", "Petah Tikva", "Ashdod", "Netanya", "Be'er Sheva", "Bnei Brak", "Holon",
+			"Ramat Gan", "Ashkelon", "Rehovot", "Herzliya", "Kfar Saba", "Modi'in-Maccabim-Re'ut"]
 	}
 ]
