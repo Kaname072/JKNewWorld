@@ -9,6 +9,6 @@
 		"name": "Natural Gas",
 		"resourceType": "Strategic",
 		"gold": 3,
-		"uniques": ["[+30]% [Production] [in this city]"
-			}
+		"uniques": ["[+30]% [Production] [in this city]"]
+	}
 ]
