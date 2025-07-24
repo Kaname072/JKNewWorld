@@ -153,36 +153,5 @@
           "Autocracy": 7,
           "Order": 4
       }
-  },
-  {
-    "name": "Netanyahu",
-    
-      "culture": 5,
-      "faith": 7,
-      "food": 5,
-      "gold": 6,
-      "happiness": 5,
-      "production": 6,
-      "science": 6,
-      "military": 7,
-      "aggressive": 6,
-      "declareWar": 6,
-      "commerce": 7,
-      "diplomacy": 8,
-      "loyal": 8,
-      "expansion": 4,
-
-      "priorities": {
-          "Tradition": 7,
-          "Liberty": 5,
-          "Honor": 4,
-          "Commerce": 7,
-          "Patronage": 6,
-          "Piety": 6,
-          "Rationalism": 7,
-          "Freedom": 6,
-          "Autocracy": 4,
-          "Order": 7
-      }
   }
 ]
