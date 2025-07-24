@@ -8,6 +8,7 @@
 	{
 		"name": "Natural Gas",
 		"resourceType": "Strategic",
+		"terrainsCanBeFoundOn": ["Hill"],
 		"gold": 3,
 		"uniques": ["[+30]% [Production] [in this city]"]
 	}
