@@ -3,7 +3,7 @@
     "name": "Panda",
 		"resourceType": "Luxury",
 		"gold": 2,
-		"uniques": ["[+10]% [Happiness] [in this city]"]
+		"uniques": ["[+20]% [Happiness] [in this city]"]
   },
 	{
 		"name": "Natural Gas",
@@ -12,6 +12,6 @@
 		"resourceType": "Strategic",
 		"terrainsCanBeFoundOn": ["Hill"],
 		"gold": 3,
-		"uniques": ["[+25]% [Production] [in this city]","Generated on every [8] tiles <in [{Featureless} {Hill}] tiles>"]
+		"uniques": ["[+25]% [Production] [in this city]","Generated on every [10] tiles <in [{Featureless} {Hill}] tiles>"]
 	}
 ]
