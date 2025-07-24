@@ -71,7 +71,6 @@
       "happiness": 2,
       "production": 11,
       "science": 10,
-      
       "military": 8,
       "aggressive": 6,
       "declareWar": 5,
@@ -103,7 +102,6 @@
       "happiness": 6,
       "production": 8,
       "science": 5,
-      
       "military": 6,
       "aggressive": 2,
       "declareWar": 3,
@@ -135,7 +133,6 @@
       "happiness": 6,
       "production": 7,
       "science": 8,
-      
       "military": 7,
       "aggressive": 8,
       "declareWar": 5,
@@ -167,7 +164,6 @@
       "happiness": 5,
       "production": 6,
       "science": 6,
-      
       "military": 7,
       "aggressive": 6,
       "declareWar": 6,
