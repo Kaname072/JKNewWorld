@@ -1,5 +1,5 @@
 
-game3.png
+game4.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -78,6 +78,20 @@ ResourceIcons/Panda
   rotate: false
   xy: 100, 100
   size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Natural Gas
+  rotate: false
+  xy: 200, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/GN Platform
+  rotate: false
+  xy: 335, 134
+  size: 31, 31
   orig: 100, 100
   offset: 0, 0
   index: -1
