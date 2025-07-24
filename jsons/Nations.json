@@ -180,7 +180,7 @@
 		"innerColor": [218,0,0],
 		"favoredReligion": "Islam",
 		"uniqueName": "Iran Sovereignty",
-		"uniques": ["[+2 Production] from [Desert] tiles","[+100]% [Uranium] resource production <during a Golden Age>"],
+		"uniques": ["[+100]% [Uranium] resource production <during a Golden Age>"],
 		"cities": ["Teerã","Ahvaz","Arak, Ardabil","Bandar Abbas","Birjand","Bojnourd","Bushehr","Gorgan","Hamadan","Ilam","Isfahan","Karaj","Kerman","Kermanshah","Khorramabad","Mashhad"]
 	},
 	{
@@ -209,13 +209,13 @@
 		"hateNo": ["Not again!","NO","No more..."],
 		"hateYes": ["Fine...","Go on...","Yes..."],
 		
-		"afterPeace": "Very well...",
+		"afterPeace": "Good.",
 		"tradeRequest": "accept this trade offer?",
 
 		"outerColor": [0,94,184],
 		"innerColor": [255,255,255],
 		"favoredReligion": "Judaism",
-		"uniqueName": "Faith",
+		"uniqueName": "Faith and Honor",
 		"uniques": ["[+2 Faith] from [Sheep] tiles [in this city]","[+25]% [Faith] [in all cities] <during a Golden Age>"],
 		"cities": ["Jerusalém", "Tel Aviv", "Haifa", "Rishon LeZion", "Petah Tikva", "Ashdod", "Netanya", "Be'er Sheva", "Bnei Brak", "Holon",
 			"Ramat Gan", "Ashkelon", "Rehovot", "Herzliya", "Kfar Saba", "Modi'in-Maccabim-Re'ut"]
