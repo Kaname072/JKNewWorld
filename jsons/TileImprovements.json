@@ -2,7 +2,7 @@
   {
     "name": "GN Platform",
 		"turnsToBuild": 9,
-		"techRequired": "Biology",
+		"techRequired": "The Wheel",
 		"uniques": ["Can only be built to improve a resource", "Cannot be built on [Water] tiles", "Pillaging this improvement yields approximately [+20 Gold]"]
   }
 ]
