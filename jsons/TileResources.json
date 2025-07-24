@@ -7,9 +7,11 @@
   },
 	{
 		"name": "Natural Gas",
+		"improvement": "GN Platform",
+		"improvementStats": {"production": 1},
 		"resourceType": "Strategic",
 		"terrainsCanBeFoundOn": ["Hill"],
 		"gold": 3,
-		"uniques": ["[+30]% [Production] [in this city]"]
+		"uniques": ["[+30]% [Production] [in this city]","Generated on every [23] tiles <in [{Featureless} {Hill}] tiles>"]
 	}
 ]
