@@ -60,6 +60,13 @@ NationIcons/Iran
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Israel
+  rotate: false
+  xy: 400, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Pandas Park
   rotate: false
   xy: 0, 100
