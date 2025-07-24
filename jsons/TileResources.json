@@ -12,6 +12,6 @@
 		"resourceType": "Strategic",
 		"terrainsCanBeFoundOn": ["Hill"],
 		"gold": 3,
-		"uniques": ["[+30]% [Production] [in this city]","Generated on every [23] tiles <in [{Featureless} {Hill}] tiles>"]
+		"uniques": ["[+25]% [Production] [in this city]","Generated on every [8] tiles <in [{Featureless} {Hill}] tiles>"]
 	}
 ]
