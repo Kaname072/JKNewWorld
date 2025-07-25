@@ -219,5 +219,42 @@
 		"uniques": ["[+2 Faith] from [Sheep] tiles [in this city]","[+25]% [Faith] [in all cities] <during a Golden Age>"],
 		"cities": ["Jerusalém", "Tel Aviv", "Haifa", "Rishon LeZion", "Petah Tikva", "Ashdod", "Netanya", "Be'er Sheva", "Bnei Brak", "Holon",
 			"Ramat Gan", "Ashkelon", "Rehovot", "Herzliya", "Kfar Saba", "Modi'in-Maccabim-Re'ut"]
+	},
+	{
+		"name": "Ukraine",
+		"leaderName": "Zelensky",
+		"adjective": ["ukraine"],
+		"startBias": ["Avoid [Desert]"],
+		"preferredVictoryType": "Diplomatic",
+		"personality": "Donald Trump",
+		
+		"startIntroPart1": "After election, Zelensky win and is here to make this country great!",
+		"startIntroPart2": "return to each your glorious, We are go to the glorious days!!",
+		
+		"declaringWar": "This end now!",
+		"attacked": "HOW DARE?!",
+		"defeated": "This is not end! you dont we great with this all innocent blood in your hands!",
+		"introduction": "Hello from Ukraine!",
+		
+		"neutralHello": "Hello friend",
+		"neutralLetsHearIt": ["Go on.","When?","What you need?"],
+		"neutralNo": ["No","I refuse this!","Nah"],
+		"neutralYes": ["Good enough","Very nice","Yes"],
+
+		"hateHello": "Oh, is you...",
+		"hateLetsHearIt": ["Is You...","What you say?","Come on..."],
+		"hateNo": ["Not again!","NO","No more..."],
+		"hateYes": ["Fine...","Go on...","Yes..."],
+		
+		"afterPeace": "Thanks",
+		"tradeRequest": "accept?",
+
+		"outerColor": [0,87,184],
+		"innerColor": [255,215,0],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Feed the world",
+		"uniques": ["[+2 Food] from [Wheat] tiles [in this city]","[+1 Food] from [Farm] tiles [in this city]","[+10]% Strength <when fighting in friendly territory>"],
+		"cities": ["Kiev", "Dnipro", "Kharkiv", "Odessa", "Vinnytsia", "Donetsk", "Chernihiv", "Poltava", "Jitomir",
+			"Luhansk", "Lutsk", "Rivne", "Ternopil", "Chernivtsi", "Uzhhorod"]
 	}
 ]
