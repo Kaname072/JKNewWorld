@@ -1,5 +1,5 @@
 
-game4.png
+game5.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -74,6 +74,20 @@ NationIcons/Ukraine
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Palestine
+  rotate: false
+  xy: 600, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Venezuela
+  rotate: false
+  xy: 800, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Pandas Park
   rotate: false
   xy: 0, 100
@@ -104,7 +118,7 @@ TileSets/FantasyHex/Tiles/GN Platform
   index: -1
 ImprovementIcons/GN Platform
   rotate: false
-  xy: 200, 100
+  xy: 400, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
