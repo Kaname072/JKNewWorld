@@ -32,9 +32,9 @@
 		"innerColor": [255,255,255],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Make Great Again",
-		"uniques": ["[+2 Gold] from each Trade Route","[+10]% [Gold] [in all cities] <during a Golden Age>"],
-		"cities": ["Washington","Sacramento","Austin","Tallahassee","Atlanta","Boston","Denver","Olympia","Phoenix",
-			"Nashville","Springfield","Boise","Juneau","Honolulu","Richmond","Santa Fé"]
+		"uniques": ["[+2 Gold] from each Trade Route","[+10]% [Gold] [in all cities connected to capital] <during a Golden Age>","[-40]% Culture cost of adopting new Policies <during a Golden Age>"],
+		"cities": ["Washington", "New York", "Los Angeles", "Chicago", "Houston", "Phoenix", "Philadelphia", "San Antonio",
+			"San Diego", "Dallas", "São José", "Austin", "Jacksonville", "Columbus", "Charlotte"]
 	},
 	{
 		"name": "Russia Federation",
@@ -69,7 +69,7 @@
 		"innerColor": [239,180,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Imponency",
-		"uniques": ["[+100]% [Natural Gas] resource production","[+15]% [Production] [in all cities] <during a Golden Age>"],
+		"uniques": ["[+100]% [Natural Gas] resource production","[+10]% Production when constructing [Production] buildings [in all cities]"],
 		"cities": ["Moscow","Petersburg","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk",
 			"Orenburg","Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk",
 			"Irkutsk","Chita","SamaraArkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm"]
@@ -106,7 +106,7 @@
 		"outerColor": [238,28,27],
 		"innerColor": [255,255,0],
 		"uniqueName": "Commercial Control",
-		"uniques": ["[+2 Science] from each Trade Route","[+25]% growth [in this city] <when not at war>"],
+		"uniques": ["[+2 Science] from each Trade Route","[+25]% growth [in this city] <when not at war>","[-20]% Culture cost of adopting new Policies"],
 		"cities": ["Pequim","Xangai","Cantão","Chengdu","Wuhan","Xi'an","Hangzhou","Nanquim",
 			"Zhengzhou","Jinan, Hefei","Fuzhou, Changsha","Kunming","Shenyang","Harbin"]
 	},
@@ -143,7 +143,8 @@
 		"innerColor": [255,242,18],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Everyone Friend",
-		"uniques": ["[+2 Food] from [Pasture] tiles [in this city]","[+2 Culture] from [Jungle] tiles [in this city]","City-State territory always counts as friendly territory"],
+		"uniques": ["[+2 Food] from [Pasture] tiles [in this city]","[+2 Culture] from [Jungle] tiles [in this city]",
+			"City-State territory always counts as friendly territory","[-10]% City-State Influence degradation"],
 		"cities": ["Brasília","Rio de Janeiro","São Paulo","Belo Horizonte","Salvador","Curitiba","Porto Alegre","Fortaleza",
 			"Recife","Manaus","Belém","Goiânia","Campo Grande","Florianópolis","Vitória, Natal"]
 	},
@@ -180,7 +181,7 @@
 		"innerColor": [218,0,0],
 		"favoredReligion": "Islam",
 		"uniqueName": "Iran Sovereignty",
-		"uniques": ["[+100]% [Uranium] resource production <during a Golden Age>"],
+		"uniques": ["[+100]% [Uranium] resource production <during a Golden Age>","[+15]% Production when constructing [Faith] buildings [in all cities]"],
 		"cities": ["Teerã","Ahvaz","Arak, Ardabil","Bandar Abbas","Birjand","Bojnourd","Bushehr","Gorgan","Hamadan","Ilam","Isfahan","Karaj","Kerman","Kermanshah","Khorramabad","Mashhad"]
 	},
 	{
@@ -216,7 +217,7 @@
 		"innerColor": [0,94,184],
 		"favoredReligion": "Judaism",
 		"uniqueName": "Faith and Honor",
-		"uniques": ["[+2 Faith] from [Sheep] tiles [in this city]","[+25]% [Faith] [in all cities] <during a Golden Age>"],
+		"uniques": ["[+2 Faith] from [Sheep] tiles [in this city]","[+25]% [Faith] [in all cities] <during a Golden Age>","[10]% City-State Influence degradation"],
 		"cities": ["Jerusalém", "Tel Aviv", "Haifa", "Rishon LeZion", "Petah Tikva", "Ashdod", "Netanya", "Be'er Sheva", "Bnei Brak", "Holon",
 			"Ramat Gan", "Ashkelon", "Rehovot", "Herzliya", "Kfar Saba", "Modi'in-Maccabim-Re'ut"]
 	},
@@ -256,5 +257,42 @@
 		"uniques": ["[+2 Food] from [Wheat] tiles [in this city]","[+1 Food] from [Farm] tiles [in this city]","[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"],
 		"cities": ["Kiev", "Dnipro", "Kharkiv", "Odessa", "Vinnytsia", "Donetsk", "Chernihiv", "Poltava", "Jitomir",
 			"Luhansk", "Lutsk", "Rivne", "Ternopil", "Chernivtsi", "Uzhhorod"]
+	},
+	{
+		"name": "Venezuela",
+		"leaderName": "Nicolas Maduro",
+		"adjective": ["venezuelian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
+		"personality": "Vladimir Putin",
+		
+		"startIntroPart1": "Nicolas Maduro is a wonder man! we is here to make this coutry a superpower!",
+		"startIntroPart2": "nothing and nobody can stop us! we became big again!",
+		
+		"declaringWar": "I need more than you!",
+		"attacked": "You!",
+		"defeated": "Just continue with you destruction!!",
+		"introduction": "Iran here! hello for your nation",
+		
+		"neutralHello": "Hello my friend",
+		"neutralLetsHearIt": ["Go on.","When?","What you need?"],
+		"neutralNo": ["No","I refuse this!","Nah"],
+		"neutralYes": ["Good enough","Very nice","Yes"],
+
+		"hateHello": "Ah... is you...",
+		"hateLetsHearIt": ["Is You...","What you say?","Come on..."],
+		"hateNo": ["Not again!","NO","No more..."],
+		"hateYes": ["Fine...","Go on...","Yes..."],
+		
+		"afterPeace": "Thanks for this...",
+		"tradeRequest": "accept this trade offer?",
+
+		"outerColor": [255,204,0],
+		"innerColor": [207,20,43],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Chavism",
+		"uniques": ["[+100]% [Oil] resource production","[+15]% Production when constructing [Food] buildings [in all cities]"],
+		"cities": ["Caracas", "Cumaná", "Coro", "Barquisimeto", "Valencia", "Mérida", "Barcelona",
+			"San Carlos", "Maracay", "Los Teques", "San Juan de los Morros", "San Fernando de Apure", "Tucupita","Puerto Ayacucho"]
 	}
 ]
