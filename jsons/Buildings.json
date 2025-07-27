@@ -17,13 +17,5 @@
 		"happiness": 2,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "Engineering"
-	},
-	{
-		"name": "Maaaoss",
-		"faith": 2,
-		"isWonder": true,
-		"greatPersonPoints": {"Great Engineer": 1},
-		"requiredTech": "Calendar",
-		"quote": "teste"
 	}
 ]
