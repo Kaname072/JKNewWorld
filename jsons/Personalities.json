@@ -184,5 +184,36 @@
           "Autocracy": 3,
           "Order": 7
       }
+  },
+  {
+    "name": "Nicolas Maduro",
+      
+      "culture": 8,
+      "faith": 6,
+      "food": 3,
+      "gold": 9,
+      "happiness": 3,
+      "production": 9,
+      "science": 6,
+      "military": 8,
+      "aggressive": 8,
+      "declareWar": 6,
+      "commerce": 3,
+      "diplomacy": 4,
+      "loyal": 6,
+      "expansion": 6,
+
+      "priorities": {
+          "Tradition": 7,
+          "Liberty": 3,
+          "Honor": 5,
+          "Commerce": 4,
+          "Patronage": 5,
+          "Piety": 4,
+          "Rationalism": 3,
+          "Freedom": 2,
+          "Autocracy": 8,
+          "Order": 7
+      }
   }
 ]
