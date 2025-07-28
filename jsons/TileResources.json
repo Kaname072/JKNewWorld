@@ -8,10 +8,13 @@
 	{
 		"name": "Natural Gas",
 		"improvement": "GN Platform",
+		"reveleadBy":"Archaeology",
 		"improvementStats": {"production": 1},
 		"resourceType": "Strategic",
-		"terrainsCanBeFoundOn": ["Hill"],
+		"terrainsCanBeFoundOn": ["Hill","Marsh"],
 		"gold": 3,
-		"uniques": ["[+25]% [Production] [in this city]","Generated on every [10] tiles <in [{Featureless} {Hill}] tiles>"]
+		"uniques": ["Generated on every [10] tiles <in [{Featureless} {Hill}] tiles>",
+			"Generated on every [7] tiles <in [{Featureless} {Marsh}] tiles>",
+		"[+25]% [Production] [in all cities]"]
 	}
 ]
