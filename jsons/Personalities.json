@@ -215,5 +215,36 @@
           "Autocracy": 8,
           "Order": 7
       }
+  },
+  {
+    "name": "Volodymyr Zelensky",
+      
+      "culture": 9,
+      "faith": 4,
+      "food": 8,
+      "gold": 7,
+      "happiness": 7,
+      "production": 6,
+      "science": 7,
+      "military": 8,
+      "aggressive": 3,
+      "declareWar": 2,
+      "commerce": 7,
+      "diplomacy": 6,
+      "loyal": 8,
+      "expansion": 4,
+
+      "priorities": {
+          "Tradition": 6,
+          "Liberty": 7,
+          "Honor": 5,
+          "Commerce": 6,
+          "Patronage": 5,
+          "Piety": 3,
+          "Rationalism": 6,
+          "Freedom": 6,
+          "Autocracy": 4,
+          "Order": 5
+      }
   }
 ]
