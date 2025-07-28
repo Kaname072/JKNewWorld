@@ -153,5 +153,36 @@
           "Autocracy": 7,
           "Order": 4
       }
+  },
+  {
+    "name": "Benjamin Netanyahu",
+      
+      "culture": 6,
+      "faith": 7,
+      "food": 5,
+      "gold": 8,
+      "happiness": 5,
+      "production": 8,
+      "science": 6,
+      "military": 9,
+      "aggressive": 5,
+      "declareWar": 4,
+      "commerce": 6,
+      "diplomacy": 6,
+      "loyal": 9,
+      "expansion": 2,
+
+      "priorities": {
+          "Tradition": 6,
+          "Liberty": 5,
+          "Honor": 4,
+          "Commerce": 3,
+          "Patronage": 8,
+          "Piety": 7,
+          "Rationalism": 5,
+          "Freedom": 4,
+          "Autocracy": 3,
+          "Order": 7
+      }
   }
 ]
