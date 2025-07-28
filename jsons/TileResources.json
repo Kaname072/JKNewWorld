@@ -8,7 +8,7 @@
 	{
 		"name": "Natural Gas",
 		"improvement": "GN Platform",
-		"reveleadBy":"Archaeology",
+		"revealedBy":"Archaeology",
 		"improvementStats": {"production": 1},
 		"resourceType": "Strategic",
 		"terrainsCanBeFoundOn": ["Hill","Marsh"],
