@@ -190,7 +190,7 @@
 		"adjective": ["israel"],
 		"startBias": ["Coast","Desert"],
 		"preferredVictoryType": "Scientific",
-		"personality": "Donald Trump",
+		"personality": "Benjamin Netanyahu",
 		
 		"startIntroPart1": "State of Israel is here and with you greatest faith in your god",
 		"startIntroPart2": "return to each your glorious, We are go to the glorious days!!",
@@ -227,7 +227,7 @@
 		"adjective": ["ukraine"],
 		"startBias": ["Avoid [Desert]"],
 		"preferredVictoryType": "Diplomatic",
-		"personality": "Donald Trump",
+		"personality": "Volodymyr Zelensky",
 		
 		"startIntroPart1": "After election, Zelensky win and is here to make this country great!",
 		"startIntroPart2": "return to each your glorious, We are go to the glorious days!!",
@@ -264,7 +264,7 @@
 		"adjective": ["venezuelian"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Cultural",
-		"personality": "Vladimir Putin",
+		"personality": "Nicolas Maduro",
 		
 		"startIntroPart1": "Nicolas Maduro is a wonder man! we is here to make this coutry a superpower!",
 		"startIntroPart2": "nothing and nobody can stop us! we became big again!",
