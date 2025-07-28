@@ -9,13 +9,11 @@
 		"requiredTech": "Theology"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
+		"name": "BRICS+ Project",
 		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"isWonder": true,
+		"uniques": ["[+2 Science, +2 Gold] from each Trade Route","[-15]% City-State Influence degradation","Gifts of Gold to City-States generate [10]% more Influence"]
+		"greatPersonPoints": {"Great General": 1},
+		"requiredTech": "Civil Service",
 	}
 ]
