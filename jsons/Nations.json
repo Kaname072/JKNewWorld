@@ -181,7 +181,7 @@
 		"innerColor": [218,0,0],
 		"favoredReligion": "Islam",
 		"uniqueName": "Iran Sovereignty",
-		"uniques": ["[+100]% [Uranium] resource production <during a Golden Age>","[+15]% Production when constructing [Faith] buildings [in all cities]"],
+		"uniques": ["[+100]% [Uranium] resource production <during a Golden Age>","[+25]% Production when constructing [Faith] buildings [in all cities]"],
 		"cities": ["Teerã","Ahvaz","Arak, Ardabil","Bandar Abbas","Birjand","Bojnourd","Bushehr","Gorgan","Hamadan","Ilam","Isfahan","Karaj","Kerman","Kermanshah","Khorramabad","Mashhad"]
 	},
 	{
@@ -217,7 +217,7 @@
 		"innerColor": [0,94,184],
 		"favoredReligion": "Judaism",
 		"uniqueName": "Faith and Honor",
-		"uniques": ["[+2 Faith] from [Sheep] tiles [in this city]","[+25]% [Faith] [in all cities] <during a Golden Age>","[10]% City-State Influence degradation"],
+		"uniques": ["[+2 Faith] from [Sheep] tiles [in this city]","[+25]% [Faith] [in all cities] <during a Golden Age>","[+20]% City-State Influence degradation"],
 		"cities": ["Jerusalém", "Tel Aviv", "Haifa", "Rishon LeZion", "Petah Tikva", "Ashdod", "Netanya", "Be'er Sheva", "Bnei Brak", "Holon",
 			"Ramat Gan", "Ashkelon", "Rehovot", "Herzliya", "Kfar Saba", "Modi'in-Maccabim-Re'ut"]
 	},
@@ -291,7 +291,7 @@
 		"innerColor": [207,20,43],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Chavism",
-		"uniques": ["[+100]% [Oil] resource production","[+15]% Production when constructing [Food] buildings [in all cities]"],
+		"uniques": ["[+100]% [Oil] resource production","[+10]% Production when constructing [Food] buildings [in all cities]"],
 		"cities": ["Caracas", "Cumaná", "Coro", "Barquisimeto", "Valencia", "Mérida", "Barcelona",
 			"San Carlos", "Maracay", "Los Teques", "San Juan de los Morros", "San Fernando de Apure", "Tucupita","Puerto Ayacucho"]
 	}
