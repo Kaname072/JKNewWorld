@@ -32,7 +32,7 @@
 		"innerColor": [255,255,255],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Make Great Again",
-		"uniques": ["[+2 Gold] from each Trade Route","[+10]% [Gold] [in all cities connected to capital] <during a Golden Age>","[-30]% Culture cost of adopting new Policies <during a Golden Age>"],
+		"uniques": ["[+2 Gold, +1 Science] from each Trade Route","[+22]% [Science] from every [Strategic resource]"],
 		"cities": ["Washington", "New York", "Los Angeles", "Chicago", "Houston", "Phoenix", "Philadelphia", "San Antonio",
 			"San Diego", "Dallas", "São José", "Austin", "Jacksonville", "Columbus", "Charlotte"]
 	},
@@ -69,7 +69,7 @@
 		"innerColor": [239,180,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Superpowered",
-		"uniques": ["[+100]% [Natural Gas] resource production","[+22]% [Production] from every [Strategic] resources"],
+		"uniques": ["[+100]% [Natural Gas] resource production","[+22]% [Production] from every [Strategic resources]"],
 		"cities": ["Moscow","Petersburg","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk",
 			"Orenburg","Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk",
 			"Irkutsk","Chita","SamaraArkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm"]
@@ -106,7 +106,7 @@
 		"outerColor": [238,28,27],
 		"innerColor": [255,255,0],
 		"uniqueName": "Commercial Control",
-		"uniques": ["[+2 Science] from each Trade Route","[+20]% growth [in this city] <when not at war>","[-10]% Culture cost of adopting new Policies <when not at war>"],
+		"uniques": ["[+2 Science, +1 Gold] from each Trade Route","[+50]% [Luxury resource] resource production"],
 		"cities": ["Pequim","Xangai","Cantão","Chengdu","Wuhan","Xi'an","Hangzhou","Nanquim",
 			"Zhengzhou","Jinan, Hefei","Fuzhou, Changsha","Kunming","Shenyang","Harbin"]
 	},
@@ -181,7 +181,7 @@
 		"innerColor": [218,0,0],
 		"favoredReligion": "Islam",
 		"uniqueName": "Iran Sovereignty",
-		"uniques": ["[+100]% [Uranium] resource production","[+1 Science] from [Mines] tiles [in this city]","[+10]% [Science] from every [Strategic] resource"],
+		"uniques": ["[+100]% [Uranium] resource production","[+1 Science] from [Mine] tiles [in this city]","[+33]% [Science] from every [Strategic resource]"],
 		"cities": ["Teerã","Ahvaz","Arak, Ardabil","Bandar Abbas","Birjand","Bojnourd","Bushehr","Gorgan","Hamadan","Ilam","Isfahan","Karaj","Kerman","Kermanshah","Khorramabad","Mashhad"]
 	},
 	{
@@ -328,7 +328,7 @@
 		"innerColor": [224,0,37],
 		"favoredReligion": "Buddhism",
 		"uniqueName": "Khmer",
-		"uniques": ["[+1 Food, +1 Culture, +1 Science] from every [Farm] tiles","[+1 Food, +1 Culture, +1 Science] from every [Fishing Boats] tiles"],
+		"uniques": ["[+1 Food, +1 Culture, +1 Science] from [Farm] tiles","[+1 Food, +1 Culture, +1 Science] from [Fishing Boats] tiles"],
 		"cities": ["Phnom Penh","Banlung", "Paoy Pet", "Kampong Cham", "Kampong Chhnang", "Kampong Speu",
 			"Kampong Thom", "Kampot", "Kandal", "Koh Kong", "Kratié", "Mondulkiri", "Preah Vihear", "Pursat", "Siem Reap", "Sihanoukville"]
 	}
