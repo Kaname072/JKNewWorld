@@ -291,7 +291,8 @@
 		"innerColor": [207,20,43],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Chavism",
-		"uniques": ["[+100]% [Oil] resource production"],
+		"uniques": ["[+100]% [Oil] resource production","[+2 Production] from [Oil well] tiles [in this city]",
+		"[+2 Production] from [Offshore Platform] [in this city] <hidden from users>"],
 		"cities": ["Caracas", "Cumaná", "Coro", "Barquisimeto", "Valencia", "Mérida", "Barcelona",
 			"San Carlos", "Maracay", "Los Teques", "San Juan de los Morros", "San Fernando de Apure", "Tucupita","Puerto Ayacucho"]
 	},
@@ -328,7 +329,7 @@
 		"innerColor": [224,0,37],
 		"favoredReligion": "Buddhism",
 		"uniqueName": "Khmer",
-		"uniques": ["[+1 Food, +1 Culture, +1 Science] from [Farm] tiles","[+1 Food, +1 Culture, +1 Science] from [Fishing Boats] tiles"],
+		"uniques": ["[+1 Food, +1 Culture, +1 Science] from [Farm] tiles [in this city]","[+1 Food, +1 Culture, +1 Science] from [Fishing Boats] tiles [in this city]"],
 		"cities": ["Phnom Penh","Banlung", "Paoy Pet", "Kampong Cham", "Kampong Chhnang", "Kampong Speu",
 			"Kampong Thom", "Kampot", "Kandal", "Koh Kong", "Kratié", "Mondulkiri", "Preah Vihear", "Pursat", "Siem Reap", "Sihanoukville"]
 	}
