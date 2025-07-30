@@ -132,7 +132,7 @@ TileSets/FantasyHex/Tiles/Space Launch
   index: -1
 ImprovementIcons/Space Launch
   rotate: false
-  xy: 400, 100
+  xy: 800, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
