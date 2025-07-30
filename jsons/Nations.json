@@ -294,5 +294,42 @@
 		"uniques": ["[+100]% [Oil] resource production","[+100]% Happiness from luxury resources gifted by City-States"],
 		"cities": ["Caracas", "Cumaná", "Coro", "Barquisimeto", "Valencia", "Mérida", "Barcelona",
 			"San Carlos", "Maracay", "Los Teques", "San Juan de los Morros", "San Fernando de Apure", "Tucupita","Puerto Ayacucho"]
+	},
+	{
+				"name": "Cambodia",
+		"leaderName": "Norodom Sihamone",
+		"adjective": ["cambodian"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Diplomatic",
+		"personality": "Vladimir Putin",
+		
+		"startIntroPart1": "In 2004 King Norodom got this glorious country! we is here to make this coutry a superpower!",
+		"startIntroPart2": "somebody think is can stop us? we became big again!",
+		
+		"declaringWar": "Is time for your desapair!",
+		"attacked": "This is just begging!",
+		"defeated": "You destroyed us? oh no, thats no make sense! you will pay for this!",
+		"introduction": "Cambodia is here! hello for your nation",
+		
+		"neutralHello": "Hello!",
+		"neutralLetsHearIt": ["Go on.","When?","What you need?"],
+		"neutralNo": ["No","I refuse this!","Nah"],
+		"neutralYes": ["Good enough","Very nice","Yes"],
+
+		"hateHello": "Ah... is you...",
+		"hateLetsHearIt": ["Is You...","What you say?","Come on..."],
+		"hateNo": ["Not again!","NO","No more..."],
+		"hateYes": ["Fine...","Go on...","Yes..."],
+		
+		"afterPeace": "Yeah... stop this for now",
+		"tradeRequest": "Trade offer?",
+
+		"outerColor": [3,46,161],
+		"innerColor": [224,0,37],
+		"favoredReligion": "Buddhism",
+		"uniqueName": "Khmer",
+		"uniques": ["[+100]% [Oil] resource production","[+100]% Happiness from luxury resources gifted by City-States"],
+		"cities": ["Phnom Penh","Banlung", "Paoy Pet", "Kampong Cham", "Kampong Chhnang", "Kampong Speu",
+			"Kampong Thom", "Kampot", "Kandal", "Koh Kong", "Kratié", "Mondulkiri", "Preah Vihear", "Pursat", "Siem Reap", "Sihanoukville"]
 	}
 ]
