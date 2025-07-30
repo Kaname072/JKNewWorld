@@ -5,5 +5,15 @@
 		"turnsToBuild": 9,
 		"techRequired": "Archaeology",
 		"uniques": ["Can only be built to improve a resource", "Cannot be built on [Water] tiles", "Pillaging this improvement yields approximately [+20 Gold]"]
-  }
+  },
+	{
+		"name": "Space Launch",
+		"replaces": "Academy",
+		"uniqueTo": "United States of America",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"science": 8,
+		"uniques": ["Great Improvement", "[+2 Science] <after discovering [Radar]>","[+2 Science] <after discovering [Computers]>",
+			"[+1 Science] <after discovering [Rocketry]>", "Removes removable features when built",
+            "Will not be replaced by automated units", "Pillaging this improvement yields approximately [+20 Gold]"]
+	}
 ]
