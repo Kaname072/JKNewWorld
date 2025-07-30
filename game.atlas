@@ -1,5 +1,5 @@
 
-game5.png
+game6.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -117,6 +117,20 @@ TileSets/FantasyHex/Tiles/GN Platform
   offset: 0, 0
   index: -1
 ImprovementIcons/GN Platform
+  rotate: false
+  xy: 400, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Space Launch
+  rotate: false
+  xy: 735, 134
+  size: 31, 31
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Space Launch
   rotate: false
   xy: 400, 100
   size: 100, 100
