@@ -68,8 +68,8 @@
 		"outerColor": [0,0,0],
 		"innerColor": [239,180,0],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Imponency",
-		"uniques": ["[+100]% [Natural Gas] resource production","[+10]% Production when constructing [Production] buildings [in all cities]"],
+		"uniqueName": "Superpowered",
+		"uniques": ["[+100]% [Natural Gas] resource production","[+22]% [Production] from every [Strategic] resources"],
 		"cities": ["Moscow","Petersburg","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk",
 			"Orenburg","Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk",
 			"Irkutsk","Chita","SamaraArkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm"]
@@ -106,7 +106,7 @@
 		"outerColor": [238,28,27],
 		"innerColor": [255,255,0],
 		"uniqueName": "Commercial Control",
-		"uniques": ["[+2 Science] from each Trade Route","[+25]% growth [in this city] <when not at war>","[-20]% Culture cost of adopting new Policies"],
+		"uniques": ["[+2 Science] from each Trade Route","[+20]% growth [in this city] <when not at war>","[-10]% Culture cost of adopting new Policies <when not at war>"],
 		"cities": ["Pequim","Xangai","Cantão","Chengdu","Wuhan","Xi'an","Hangzhou","Nanquim",
 			"Zhengzhou","Jinan, Hefei","Fuzhou, Changsha","Kunming","Shenyang","Harbin"]
 	},
@@ -143,8 +143,8 @@
 		"innerColor": [255,242,18],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Everyone Friend",
-		"uniques": ["[+2 Culture, +1 Happiness] from each Trade Route","Resting point for Influence with City-States is increased by [10]",
-			"City-State territory always counts as friendly territory","[-25]% City-State Influence degradation"],
+		"uniques": ["[+2 Culture, +1 Happiness] from each Trade Route","Resting point for Influence with City-States is increased by [15]",
+			"City-State territory always counts as friendly territory"],
 		"cities": ["Brasília","Rio de Janeiro","São Paulo","Belo Horizonte","Salvador","Curitiba","Porto Alegre","Fortaleza",
 			"Recife","Manaus","Belém","Goiânia","Campo Grande","Florianópolis","Vitória, Natal"]
 	},
@@ -181,7 +181,7 @@
 		"innerColor": [218,0,0],
 		"favoredReligion": "Islam",
 		"uniqueName": "Iran Sovereignty",
-		"uniques": ["[+100]% [Uranium] resource production <during a Golden Age>","[+15]% Production when constructing [Faith] buildings [in all cities]"],
+		"uniques": ["[+100]% [Uranium] resource production","[+1 Science] from [Mines] tiles [in this city]","[+10]% [Science] from every [Strategic] resource"],
 		"cities": ["Teerã","Ahvaz","Arak, Ardabil","Bandar Abbas","Birjand","Bojnourd","Bushehr","Gorgan","Hamadan","Ilam","Isfahan","Karaj","Kerman","Kermanshah","Khorramabad","Mashhad"]
 	},
 	{
@@ -217,7 +217,7 @@
 		"innerColor": [0,94,184],
 		"favoredReligion": "Judaism",
 		"uniqueName": "Hava Nagila",
-		"uniques": ["[+2 Faith] from [Sheep] tiles [in this city]","[+33]% [Happiness] [in all cities connected to capital]","[+33]% [Faith] [in all cities] <during a Golden Age>","[+20]% City-State Influence degradation"],
+		"uniques": ["[+2 Faith] from [Sheep] tiles [in this city]","[+33]% [Happiness] [in all cities connected to capital]","[+33]% [Faith] [in all cities] <during a Golden Age>"],
 		"cities": ["Jerusalém", "Tel Aviv", "Haifa", "Rishon LeZion", "Petah Tikva", "Ashdod", "Netanya", "Be'er Sheva", "Bnei Brak", "Holon",
 			"Ramat Gan", "Ashkelon", "Rehovot", "Herzliya", "Kfar Saba", "Modi'in-Maccabim-Re'ut"]
 	},
@@ -254,7 +254,7 @@
 		"innerColor": [255,215,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Feed the world",
-		"uniques": ["[+2 Food] from [Wheat] tiles [in this city]","[+1 Food] from [Farm] tiles [in this city]","[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>","Allied City-States will occasionally gift Great People"],
+		"uniques": ["[+3 Food] from [Wheat] tiles [in this city]","[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>","Allied City-States will occasionally gift Great People"],
 		"cities": ["Kiev", "Dnipro", "Kharkiv", "Odessa", "Vinnytsia", "Donetsk", "Chernihiv", "Poltava", "Jitomir",
 			"Luhansk", "Lutsk", "Rivne", "Ternopil", "Chernivtsi", "Uzhhorod"]
 	},
@@ -291,7 +291,7 @@
 		"innerColor": [207,20,43],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Chavism",
-		"uniques": ["[+100]% [Oil] resource production","[+100]% Happiness from luxury resources gifted by City-States"],
+		"uniques": ["[+100]% [Oil] resource production"],
 		"cities": ["Caracas", "Cumaná", "Coro", "Barquisimeto", "Valencia", "Mérida", "Barcelona",
 			"San Carlos", "Maracay", "Los Teques", "San Juan de los Morros", "San Fernando de Apure", "Tucupita","Puerto Ayacucho"]
 	},
@@ -328,7 +328,7 @@
 		"innerColor": [224,0,37],
 		"favoredReligion": "Buddhism",
 		"uniqueName": "Khmer",
-		"uniques": ["[+100]% [Oil] resource production","[+100]% Happiness from luxury resources gifted by City-States"],
+		"uniques": ["[+1 Food, +1 Culture, +1 Science] from every [Farm] tiles","[+1 Food, +1 Culture, +1 Science] from every [Fishing Boats] tiles"],
 		"cities": ["Phnom Penh","Banlung", "Paoy Pet", "Kampong Cham", "Kampong Chhnang", "Kampong Speu",
 			"Kampong Thom", "Kampot", "Kandal", "Koh Kong", "Kratié", "Mondulkiri", "Preah Vihear", "Pursat", "Siem Reap", "Sihanoukville"]
 	}
