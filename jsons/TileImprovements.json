@@ -13,7 +13,7 @@
 		"terrainsCanBeBuiltOn": ["Land"],
 		"science": 8,
 		"uniques": ["Great Improvement", "[+2 Science] <after discovering [Radar]>","[+2 Science] <after discovering [Computers]>",
-			"[+1 Science] <after discovering [Rocketry]>", "Removes removable features when built",
+			"[+2 Science] <after discovering [Rocketry]>", "Removes removable features when built",
             "Will not be replaced by automated units", "Pillaging this improvement yields approximately [+20 Gold]"]
 	},
 	{
@@ -23,7 +23,7 @@
 		"culture": 2,
 		"happiness": 1,
 		"turnsToBuild": 1,
-		"techRequired": "Education",
+		"techRequired": "Philosophy",
 		"uniques": ["[+1 Culture, +2 Food] <after discovering [Ecology]>","[+2 Culture] <after discovering [Archaeology]>",
 			"[+2 Science] <after discovering [Scientific Theory]>","Unbuildable <after discovering [Archaeology]>", "Pillaging this improvement yields approximately [+10 Gold]"]
 	}
