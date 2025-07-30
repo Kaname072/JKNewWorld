@@ -32,7 +32,7 @@
 		"innerColor": [255,255,255],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Make Great Again",
-		"uniques": ["[+2 Gold] from each Trade Route","[+10]% [Gold] [in all cities connected to capital] <during a Golden Age>","[-40]% Culture cost of adopting new Policies <during a Golden Age>"],
+		"uniques": ["[+2 Gold] from each Trade Route","[+10]% [Gold] [in all cities connected to capital] <during a Golden Age>","[-30]% Culture cost of adopting new Policies <during a Golden Age>"],
 		"cities": ["Washington", "New York", "Los Angeles", "Chicago", "Houston", "Phoenix", "Philadelphia", "San Antonio",
 			"San Diego", "Dallas", "São José", "Austin", "Jacksonville", "Columbus", "Charlotte"]
 	},
@@ -143,8 +143,8 @@
 		"innerColor": [255,242,18],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Everyone Friend",
-		"uniques": ["[+2 Food] from [Pasture] tiles [in this city]","[+2 Culture] from [Jungle] tiles [in this city]",
-			"City-State territory always counts as friendly territory","[-10]% City-State Influence degradation"],
+		"uniques": ["[+2 Culture, +1 Happiness] from each Trade Route","Resting point for Influence with City-States is increased by [10]",
+			"City-State territory always counts as friendly territory","[-25]% City-State Influence degradation"],
 		"cities": ["Brasília","Rio de Janeiro","São Paulo","Belo Horizonte","Salvador","Curitiba","Porto Alegre","Fortaleza",
 			"Recife","Manaus","Belém","Goiânia","Campo Grande","Florianópolis","Vitória, Natal"]
 	},
@@ -181,7 +181,7 @@
 		"innerColor": [218,0,0],
 		"favoredReligion": "Islam",
 		"uniqueName": "Iran Sovereignty",
-		"uniques": ["[+100]% [Uranium] resource production <during a Golden Age>","[+25]% Production when constructing [Faith] buildings [in all cities]"],
+		"uniques": ["[+100]% [Uranium] resource production <during a Golden Age>","[+15]% Production when constructing [Faith] buildings [in all cities]"],
 		"cities": ["Teerã","Ahvaz","Arak, Ardabil","Bandar Abbas","Birjand","Bojnourd","Bushehr","Gorgan","Hamadan","Ilam","Isfahan","Karaj","Kerman","Kermanshah","Khorramabad","Mashhad"]
 	},
 	{
@@ -216,8 +216,8 @@
 		"outerColor": [255,255,255],
 		"innerColor": [0,94,184],
 		"favoredReligion": "Judaism",
-		"uniqueName": "Faith and Honor",
-		"uniques": ["[+2 Faith] from [Sheep] tiles [in this city]","[+25]% [Faith] [in all cities] <during a Golden Age>","[+20]% City-State Influence degradation"],
+		"uniqueName": "Hava Nagila",
+		"uniques": ["[+2 Faith] from [Sheep] tiles [in this city]","[+33]% [Happiness] [in all cities connected to capital]","[+33]% [Faith] [in all cities] <during a Golden Age>","[+20]% City-State Influence degradation"],
 		"cities": ["Jerusalém", "Tel Aviv", "Haifa", "Rishon LeZion", "Petah Tikva", "Ashdod", "Netanya", "Be'er Sheva", "Bnei Brak", "Holon",
 			"Ramat Gan", "Ashkelon", "Rehovot", "Herzliya", "Kfar Saba", "Modi'in-Maccabim-Re'ut"]
 	},
@@ -254,7 +254,7 @@
 		"innerColor": [255,215,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Feed the world",
-		"uniques": ["[+2 Food] from [Wheat] tiles [in this city]","[+1 Food] from [Farm] tiles [in this city]","[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"],
+		"uniques": ["[+2 Food] from [Wheat] tiles [in this city]","[+1 Food] from [Farm] tiles [in this city]","[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>","Allied City-States will occasionally gift Great People"],
 		"cities": ["Kiev", "Dnipro", "Kharkiv", "Odessa", "Vinnytsia", "Donetsk", "Chernihiv", "Poltava", "Jitomir",
 			"Luhansk", "Lutsk", "Rivne", "Ternopil", "Chernivtsi", "Uzhhorod"]
 	},
@@ -291,7 +291,7 @@
 		"innerColor": [207,20,43],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Chavism",
-		"uniques": ["[+100]% [Oil] resource production","[+10]% Production when constructing [Food] buildings [in all cities]"],
+		"uniques": ["[+100]% [Oil] resource production","[+100]% Happiness from luxury resources gifted by City-States"],
 		"cities": ["Caracas", "Cumaná", "Coro", "Barquisimeto", "Valencia", "Mérida", "Barcelona",
 			"San Carlos", "Maracay", "Los Teques", "San Juan de los Morros", "San Fernando de Apure", "Tucupita","Puerto Ayacucho"]
 	}
