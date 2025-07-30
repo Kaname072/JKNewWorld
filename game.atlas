@@ -137,3 +137,10 @@ ImprovementIcons/Space Launch
   orig: 100, 100
   offset: 0, 0
   index: -1
+ImprovementIcons/Amazon Part
+  rotate: false
+  xy: 500, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
