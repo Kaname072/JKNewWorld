@@ -102,7 +102,7 @@ ResourceIcons/Natural Gas
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Drones Shahed
+UnitIcons/Drone Shahed
   rotate: false
   xy: 900, 100
   size: 100, 100
@@ -152,7 +152,7 @@ ImprovementIcons/Amazon Part
   offset: 0, 0
   index: -1
 
-game7.png
+game9.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -213,4 +213,17 @@ LeaderIcons/Volodymyr Zelensky
   orig: 100, 100
   offset: 0, 0
   index: -1
-
+LeaderIcons/Nicolas Maduro
+  rotate: false
+  xy: 1000, 0
+  size: 250, 250
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Javier Milei
+  rotate: false
+  xy: 1000, 250
+  size: 250, 250
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
