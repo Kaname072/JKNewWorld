@@ -260,13 +260,13 @@
 	},
 	{
 		"name": "Venezuela",
-		"leaderName": "Nicolas Maduro",
+		"leaderName": "Nicolás Maduro",
 		"adjective": ["venezuelian"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Cultural",
-		"personality": "Nicolas Maduro",
+		"personality": "Nicolás Maduro",
 		
-		"startIntroPart1": "Nicolas Maduro is a wonder man! we is here to make this coutry a superpower!",
+		"startIntroPart1": "Nicolás Maduro is a wonder man! we is here to make this coutry a superpower!",
 		"startIntroPart2": "nothing and nobody can stop us! we became big again!",
 		
 		"declaringWar": "I need more than you!",
@@ -302,7 +302,7 @@
 		"adjective": ["cambodian"],
 		"startBias": ["Grassland","Coast"],
 		"preferredVictoryType": "Diplomatic",
-		"personality": "Vladimir Putin",
+		"personality": "Norodom Sihamone",
 		
 		"startIntroPart1": "In 2004 King Norodom got this glorious country! we is here to make this coutry a superpower!",
 		"startIntroPart2": "somebody think is can stop us? we became big again!",
@@ -332,5 +332,41 @@
 		"uniques": ["[+1 Food, +1 Culture] from [Farm] tiles [in this city]","[+1 Food, +1 Science] from [Fishing Boats] tiles [in this city]"],
 		"cities": ["Phnom Penh","Banlung", "Paoy Pet", "Kampong Cham", "Kampong Chhnang", "Kampong Speu",
 			"Kampong Thom", "Kampot", "Kandal", "Koh Kong", "Kratié", "Mondulkiri", "Preah Vihear", "Pursat", "Siem Reap", "Sihanoukville"]
+	},
+	{
+		"name": "Argentina",
+		"leaderName": "Javier Milei",
+		"adjective": ["argentinan"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Scientific",
+		"personality": "Javier Milei",
+		
+		"startIntroPart1": "After a election, Milei win is a new day for this republic, argentina return to each your glorious",
+		"startIntroPart2": "We are go to the glorious days!!",
+		
+		"declaringWar": "No me dejame opciones!",
+		"attacked": "...!",
+		"defeated": "Isso és terrible! tu no irá triunfar sobre nosotros! tu cairá! CAIRÁ!",
+		"introduction": "Liberdad para tu nacion",
+		
+		"neutralHello": "Amigo or Enemigo?",
+		"neutralLetsHearIt": ["Deseja?","When?","What you need?"],
+		"neutralNo": ["No","I refuse this!","No quiero, desculpe"],
+		"neutralYes": ["Esta buen","Si! es claro!","Yes"],
+
+		"hateHello": "Ah... Es tu...",
+		"hateLetsHearIt": ["Is You...","What you say?","Come on..."],
+		"hateNo": ["Not again!","NO","No more..."],
+		"hateYes": ["Si...","Go on...","Yes..."],
+		
+		"afterPeace": "Muy obrigado",
+		"tradeRequest": "Aceitas minha oferta?",
+
+		"outerColor": [117,170,219],
+		"innerColor": [246,180,14],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Liberdade Car*jo!",
+		"uniques": ["[+2 Happines] from each Trade Route"],
+		"cities": ["Bueno Aires"]
 	}
 ]
