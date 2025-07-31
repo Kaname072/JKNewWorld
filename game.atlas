@@ -1,5 +1,5 @@
 
-game8.png
+game10.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -53,7 +53,7 @@ NationIcons/Ukraine
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Palestine
+NationIcons/Argentina
   rotate: false
   xy: 600, 0
   size: 100, 100
