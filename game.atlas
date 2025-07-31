@@ -164,3 +164,53 @@ LeaderIcons/Donald Trump
   orig: 100, 100
   offset: 0, 0
   index: -1
+LeaderIcons/Vladimir Putin
+  rotate: false
+  xy: 250, 0
+  size: 250, 250
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Xi Jiping
+  rotate: false
+  xy: 500, 0
+  size: 250, 250
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Ali Khamenei
+  rotate: false
+  xy: 750, 0
+  size: 250, 250
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Benjamim Netanyahu
+  rotate: false
+  xy: 0, 250
+  size: 250, 250
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Norodom Sihamone
+  rotate: false
+  xy: 250, 250
+  size: 250, 250
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Luís Inácio Lula da Silva
+  rotate: false
+  xy: 500, 250
+  size: 250, 250
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Volodymyr Zelensky
+  rotate: false
+  xy: 750, 250
+  size: 250, 250
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
