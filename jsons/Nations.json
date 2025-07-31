@@ -272,7 +272,7 @@
 		"declaringWar": "I need more than you!",
 		"attacked": "You!",
 		"defeated": "Just continue with you destruction!!",
-		"introduction": "Iran here! hello for your nation",
+		"introduction": "Venezuela está aqui! peace and glory for your nation",
 		
 		"neutralHello": "Hello my friend",
 		"neutralLetsHearIt": ["Go on.","When?","What you need?"],
@@ -292,7 +292,7 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Chavism",
 		"uniques": ["[+100]% [Oil] resource production","[+2 Production] from [Oil well] tiles [in this city]",
-		"[+2 Production] from [Offshore Platform] [in this city]"],
+		"[+2 Production] from [Offshore Platform] tiles [in this city] <hidden from users>"],
 		"cities": ["Caracas", "Cumaná", "Coro", "Barquisimeto", "Valencia", "Mérida", "Barcelona",
 			"San Carlos", "Maracay", "Los Teques", "San Juan de los Morros", "San Fernando de Apure", "Tucupita","Puerto Ayacucho"]
 	},
