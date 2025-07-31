@@ -12,7 +12,7 @@
 		"name": "BRICS+",
 		"happiness": 3,
 		"isWonder": true,
-		"uniques": ["[+2 Science, +2 Gold] from each Trade Route","[-15]% City-State Influence degradation","[+30] [Food] [in all cities connected to capital]","Gifts of Gold to City-States generate [10]% more Influence"]
+		"uniques": ["[+2 Science, +2 Gold] from each Trade Route","[-15]% City-State Influence degradation","[+30]% [Food] [in all cities connected to capital]","Gifts of Gold to City-States generate [10]% more Influence"]
 		"greatPersonPoints": {"Great General": 1},
 		"requiredTech": "Civil Service",
 	}
