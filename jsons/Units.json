@@ -1,17 +1,29 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"name": "Drone Shahed",
+		"replaces": "Helicopter Gunship",
+		"uniqueTo": "Russia Federation",
+		"unitType": "Helicopter",
+		"movement": 8,
+		"strength": 55,
+		"cost": 325,
+		"requiredTech": "Computers",
+		"uniques": ["[+50]% Strength <vs [Land] units>","All tiles cost 1 movement", "Ignores Zone of Control",
+			"Unable to capture cities","Can carry [1] [Missile] units", "Never appears as a Barbarian unit"],
+		"attackSound": "missile"
+	},
+	{
+		"name": "MTC-300"
+		"replaces": "Guided Missile",
+		"uniqueTo": "Brazil",
+		"unitType": "Missile",
+		"movement": 1,
+		"strength": 80,
+		"rangedStrength": 80,
+		"range": 9,
+		"cost": 155,
+		"requiredTech": "Advanced Ballistics",
+		"uniques": ["[-100]% maintenance costs"],
+		"attackSound": "missile"
 	}
 ]
