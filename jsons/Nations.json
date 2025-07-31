@@ -366,7 +366,7 @@
 		"innerColor": [246,180,14],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Liberdade Car*jo!",
-		"uniques": ["[+2 Happines] from each Trade Route"],
+		"uniques": ["[+2 Happiness] from each Trade Route"],
 		"cities": ["Buenos Aires", "San Miguel de Tucumán", "Mendoza", "Córdoba", "Corrientes",
 			"San Fernando del Valle de Catamarca", "Salta", "La Rioja", "San Salvador de Jujuy", "Viedma", "Paraná",
 			"Rawson", "Formosa", "Santa Rosa", "Posadas", "Neuquén"]
