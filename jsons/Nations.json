@@ -10,7 +10,7 @@
 		"startIntroPart1": "After election, Trump win and is here to make this great again!",
 		"startIntroPart2": "return to each your glorious, We are go to the glorious days!!",
 		
-		"declaringWar": "This is war!",
+		"declaringWar": "This is war! you will be cooked!",
 		"attacked": "This is nothing!",
 		"defeated": "Is sad... the america pride never die! is just begin now",
 		"introduction": "Hello from america!",
@@ -20,7 +20,7 @@
 		"neutralNo": ["No","I refuse this!","Nah"],
 		"neutralYes": ["Good enough","Very nice","Yes"],
 
-		"hateHello": "Ah... is you...",
+		"hateHello": "You is sh*t!",
 		"hateLetsHearIt": ["Is You...","What you say?","Come on..."],
 		"hateNo": ["Not again!","NO","No more..."],
 		"hateYes": ["Fine...","Go on...","Yes..."],
@@ -32,7 +32,8 @@
 		"innerColor": [255,255,255],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Make Great Again",
-		"uniques": ["[+2 Gold, +1 Science] from each Trade Route","[+15]% Strength <when fighting in [Friendly Land] tiles>"],
+		"uniques": ["[+2 Gold, +1 Science] from each Trade Route","Influence of all other civilizations with all city-states degrades [50]% faster <during a Golden Age>",
+		"Gain [300] Influence with a [Great General] gift to a City-State","Reveals the entire map <after discovering [Calendar]>"],
 		"cities": ["Washington", "New York", "Los Angeles", "Chicago", "Houston", "Phoenix", "Philadelphia", "San Antonio",
 			"San Diego", "Dallas", "São José", "Austin", "Jacksonville", "Columbus", "Charlotte"]
 	},
@@ -143,7 +144,7 @@
 		"innerColor": [255,242,18],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Everyone Friend",
-		"uniques": ["[+2 Culture] from each Trade Route","Resting point for Influence with City-States is increased by [10]",
+		"uniques": ["[+2 Culture, +1 Happiness] from each Trade Route","Resting point for Influence with City-States is increased by [30]",
 			"City-State territory always counts as friendly territory"],
 		"cities": ["Brasília","Rio de Janeiro","São Paulo","Belo Horizonte","Salvador","Curitiba","Porto Alegre","Fortaleza",
 			"Recife","Manaus","Belém","Goiânia","Campo Grande","Florianópolis","Vitória, Natal"]
@@ -254,7 +255,7 @@
 		"innerColor": [255,215,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Feed the world",
-		"uniques": ["[+3 Food] from [Wheat] tiles [in this city]","[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"],
+		"uniques": ["[+3 Food] from [Wheat] tiles [in this city]","[+50]% Strength <when fighting units from a Civilization with more Units than you>"],
 		"cities": ["Kiev", "Dnipro", "Kharkiv", "Odessa", "Vinnytsia", "Donetsk", "Chernihiv", "Poltava", "Jitomir",
 			"Luhansk", "Lutsk", "Rivne", "Ternopil", "Chernivtsi", "Uzhhorod"]
 	},
@@ -366,7 +367,7 @@
 		"innerColor": [246,180,14],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Liberdade Car*jo!",
-		"uniques": ["[+2 Happiness] from each Trade Route"],
+		"uniques": ["[+2 Happiness, +1 Culture] from each Trade Route","[+20]% Production when constructing [Gold] buildings [in all cities]"],
 		"cities": ["Buenos Aires", "San Miguel de Tucumán", "Mendoza", "Córdoba", "Corrientes",
 			"San Fernando del Valle de Catamarca", "Salta", "La Rioja", "San Salvador de Jujuy", "Viedma", "Paraná",
 			"Rawson", "Formosa", "Santa Rosa", "Posadas", "Neuquén"]
