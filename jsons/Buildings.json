@@ -9,6 +9,18 @@
 		"requiredTech": "Trapping"
 	},
 	{
+		"name": "The Western Wall",
+		"replaces": "Grand Temple"
+		"uniqueTo": "Israel"
+		"cost": 125,
+		"culture": 4,
+		"faith": 10,
+		"uniques": ["Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city",
+			"[+100]% Natural religion spread [in this city]", "Only available <when religion is enabled>", "Can only be built <in [Holy] cities>"],
+		"requiredTech": "Theology",
+		"isNationalWonder": true
+	},
+	{
 		"name": "BRICS+",
 		"happiness": 5,
 		"isWonder": true,
