@@ -157,13 +157,13 @@
 		"preferredVictoryType": "Scientific",
 		"personality": "Ali Khamenei",
 		
-		"startIntroPart1": "After years, we iran president is go on to each us glorious",
+		"startIntroPart1": "After years, we supreme leader of iran is go on to each us glorious",
 		"startIntroPart2": "We are go to the glorious days!!",
 		
 		"declaringWar": "Is now or never!",
 		"attacked": "You will pay for this!",
-		"defeated": "مردی که فقط به خودش فکر می‌کند، هرگز در بهشت جایی نخواهد داشت!",
-		"introduction": "ملت‌های جدید؟ دوست یا دشمن؟ چه کسی خواهد بود؟ خب، خدا یارتان باشد",
+		"defeated": "A man who only thinks of himself will never have a place in heaven!",
+		"introduction": "New nations? Friends or enemies? Who will they be? May God be with you",
 		
 		"neutralHello": "Hi.",
 		"neutralLetsHearIt": ["Go on.","When?","What you need?"],
@@ -175,9 +175,8 @@
 		"hateNo": ["No more..."],
 		"hateYes": ["Why not?..."],
 		
-		"afterPeace": "Thanks for this...",
-		"tradeRequest": "پیشنهادمو قبول می‌کنی؟",
-
+		"afterPeace": "Thats fine...",
+		"tradeRequest": "Accept my offer?"
 		"outerColor": [35,159,63],
 		"innerColor": [218,0,0],
 		"favoredReligion": "Islam",
