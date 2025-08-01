@@ -255,7 +255,7 @@
 		"innerColor": [255,215,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Feed the world",
-		"uniques": ["[+3 Food] from [Wheat] tiles [in this city]","[+50]% Strength <when fighting units from a Civilization with more Units than you>"],
+		"uniques": ["[+3 Food] from [Wheat] tiles [in this city]","[+50]% Strength <when fighting units from a Civilization with more Cities than you>"],
 		"cities": ["Kiev", "Dnipro", "Kharkiv", "Odessa", "Vinnytsia", "Donetsk", "Chernihiv", "Poltava", "Jitomir",
 			"Luhansk", "Lutsk", "Rivne", "Ternopil", "Chernivtsi", "Uzhhorod"]
 	},
