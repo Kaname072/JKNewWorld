@@ -50,17 +50,17 @@
 		
 		"declaringWar": "Is you end",
 		"attacked": "this is a joke?",
-		"defeated": "Is sad... the russian pride never die! is just begin now",
-		"introduction": "We are russian! hello for your nation",
+		"defeated": "Твои грехи никогда не будут прощены! То, что ты сделал, вернётся!",
+		"introduction": "Пришла матушка Россия, как дела?",
 		
-		"neutralHello": "Hello my friend",
+		"neutralHello": "You want?",
 		"neutralLetsHearIt": ["Go on.","When?","What you need?"],
-		"neutralNo": ["No","I refuse this!","Nah"],
+		"neutralNo": ["No","I refuse this!","Нет"],
 		"neutralYes": ["Good enough","Very nice","Yes"],
 
-		"hateHello": "Ah... is you...",
+		"hateHello": "Чего вы теперь хотите?",
 		"hateLetsHearIt": ["Is You...","What you say?","Come on..."],
-		"hateNo": ["Not again!","NO","No more..."],
+		"hateNo": ["..."],
 		"hateYes": ["Fine...","Go on...","Yes..."],
 		
 		"afterPeace": "Very well...",
@@ -123,21 +123,21 @@
 		"startIntroPart2": "We are go to the glorious days!!",
 		
 		"declaringWar": "Sorry but you not need this all!",
-		"attacked": "I dare you!",
+		"attacked": "Sem Perdão!",
 		"defeated": "In one day, we us in back now... in one day...",
 		"introduction": "Bom dia for your nation",
 		
-		"neutralHello": "Hello my friend",
+		"neutralHello": "Bom dia",
 		"neutralLetsHearIt": ["Go on.","When?","What you need?"],
 		"neutralNo": ["No","I refuse this!","Nah"],
-		"neutralYes": ["Good enough","Very nice","Yes"],
+		"neutralYes": ["Sim!","Very nice","Yes"],
 
 		"hateHello": "Ah... is you...",
 		"hateLetsHearIt": ["Is You...","What you say?","Come on..."],
 		"hateNo": ["Not again!","NO","No more..."],
-		"hateYes": ["Fine...","Go on...","Yes..."],
+		"hateYes": ["Fine...","Sim...","Yes..."],
 		
-		"afterPeace": "Thanks friend",
+		"afterPeace": "Very much",
 		"tradeRequest": "accept this trade offer?",
 
 		"outerColor": [0,168,89],
@@ -161,22 +161,22 @@
 		"startIntroPart2": "We are go to the glorious days!!",
 		
 		"declaringWar": "Is now or never!",
-		"attacked": "You!",
-		"defeated": "Is so sad, a man be just think in your power dont need mercy!",
-		"introduction": "Iran here! hello for your nation",
+		"attacked": "You will pay for this!",
+		"defeated": "مردی که فقط به خودش فکر می‌کند، هرگز در بهشت جایی نخواهد داشت!",
+		"introduction": "ملت‌های جدید؟ دوست یا دشمن؟ چه کسی خواهد بود؟ خب، خدا یارتان باشد",
 		
-		"neutralHello": "Hello my friend",
+		"neutralHello": "Hi.",
 		"neutralLetsHearIt": ["Go on.","When?","What you need?"],
-		"neutralNo": ["No","I refuse this!","Nah"],
+		"neutralNo": ["No","I refuse this!","Nothing"],
 		"neutralYes": ["Good enough","Very nice","Yes"],
 
-		"hateHello": "Ah... is you...",
+		"hateHello": "...",
 		"hateLetsHearIt": ["Is You...","What you say?","Come on..."],
-		"hateNo": ["Not again!","NO","No more..."],
-		"hateYes": ["Fine...","Go on...","Yes..."],
+		"hateNo": ["No more..."],
+		"hateYes": ["Why not?..."],
 		
 		"afterPeace": "Thanks for this...",
-		"tradeRequest": "accept this trade offer?",
+		"tradeRequest": "پیشنهادمو قبول می‌کنی؟",
 
 		"outerColor": [35,159,63],
 		"innerColor": [218,0,0],
@@ -271,7 +271,7 @@
 		"startIntroPart2": "nothing and nobody can stop us! we became big again!",
 		
 		"declaringWar": "I need more than you!",
-		"attacked": "You!",
+		"attacked": "Isso no es nada!",
 		"defeated": "Just continue with you destruction!!",
 		"introduction": "Venezuela está aqui! peace and glory for your nation",
 		
