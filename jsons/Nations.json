@@ -33,7 +33,7 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Make Great Again",
 		"uniques": ["[+2 Gold, +1 Science] from each Trade Route","Influence of all other civilizations with all city-states degrades [50]% faster <during a Golden Age>",
-		"Gain [300] Influence with a [Great General] gift to a City-State","Reveals the entire map <after discovering [Calendar]>"],
+		"Gain [300] Influence with a [Great General] gift to a City-State"],
 		"cities": ["Washington", "New York", "Los Angeles", "Chicago", "Houston", "Phoenix", "Philadelphia", "San Antonio",
 			"San Diego", "Dallas", "São José", "Austin", "Jacksonville", "Columbus", "Charlotte"]
 	},
@@ -365,8 +365,8 @@
 		"outerColor": [117,170,219],
 		"innerColor": [246,180,14],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Liberdade Car*jo!",
-		"uniques": ["[+2 Happiness, +1 Culture] from each Trade Route","[+20]% Production when constructing [Gold] buildings [in all cities]"],
+		"uniqueName": "Liberdad Car*jo!",
+		"uniques": ["[+2 Happiness, +1 Culture] from each Trade Route","[+10]% Production when constructing [Gold] buildings [in all cities]"],
 		"cities": ["Buenos Aires", "San Miguel de Tucumán", "Mendoza", "Córdoba", "Corrientes",
 			"San Fernando del Valle de Catamarca", "Salta", "La Rioja", "San Salvador de Jujuy", "Viedma", "Paraná",
 			"Rawson", "Formosa", "Santa Rosa", "Posadas", "Neuquén"]
