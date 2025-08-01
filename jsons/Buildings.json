@@ -10,7 +10,7 @@
 	},
 	{
 		"name": "Criptocoins",
-		"replaces": "Nacional Treasury"
+		"replaces": "National Treasury"
 		"uniqueTo": "Argentina",
 		"cost": 100,
 		"gold": 3,
