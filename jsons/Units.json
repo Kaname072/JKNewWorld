@@ -39,7 +39,6 @@
 		"requiredTech": "Industrialization",
 		"upgradesTo": "Machine Gun",
 		"obsoleteTech": "Ballistics",
-		"promotions": "Pride",
 		"attackSound": "machinegun"
 	}
 ]
