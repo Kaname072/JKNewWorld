@@ -16,17 +16,7 @@
 			"[+2 Science] <after discovering [Rocketry]>", "Removes removable features when built",
             "Will not be replaced by automated units", "Pillaging this improvement yields approximately [+20 Gold]"]
 	},
-	{
-		"name": "Amazon Part",
-		"uniqueTo": "Brazil"
-		"terrainsCanBeBuiltOn": ["Jungle"],
-		"culture": 2,
-		"happiness": 1,
-		"turnsToBuild": 1,
-		"techRequired": "Philosophy",
-		"uniques": ["[+1 Culture, +1 Food] <after discovering [Ecology]>","[+1 Culture] <after discovering [Archaeology]>",
-			"[+1 Science] <after discovering [Scientific Theory]>","Unbuildable <after discovering [Archaeology]>", "Pillaging this improvement yields approximately [+10 Gold]"]
-	},
+	
 	{
 		"name": "U.S.A Base",
 		"replaces": "Citadel",
