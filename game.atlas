@@ -1,5 +1,5 @@
 
-game11.png
+game1.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -158,9 +158,23 @@ TileSets/FantasyHex/Tiles/Space Launch
   orig: 100, 100
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/U.S.A Base 
+  rotate: false
+  xy: 635, 234
+  size: 31, 31
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 ImprovementIcons/Space Launch
   rotate: false
   xy: 800, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/U.S.A Base
+  rotate: false
+  xy: 400, 200
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
