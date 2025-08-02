@@ -9,7 +9,7 @@
 	{
 		"name": "Space Launch",
 		"replaces": "Academy",
-		"uniqueTo": "China",
+		"uniqueTo": "Republic China",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"science": 8,
 		"uniques": ["Great Improvement", "[+2 Science] <after discovering [Radar]>","[+2 Science] <after discovering [Computers]>",
@@ -30,7 +30,7 @@
 	{
 		"name": "U.S.A Base",
 		"replaces": "Citadel",
-		"uniqueTo": "United States of  America"
+		"uniqueTo": "United States of America"
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": [
 			"Great Improvement",
