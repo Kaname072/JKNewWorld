@@ -25,5 +25,20 @@
 		"requiredTech": "Advanced Ballistics",
 		"uniques": ["[-100]% maintenance costs"],
 		"attackSound": "missile"
+	},
+	{
+		"name": "Ukraine Soldier",
+		"replaces": "Gatling Gun",
+		"unitType": "Ranged Gunpowder",
+		"range": 1,
+		"movement": 2,
+		"strength": 32,
+		"rangedStrength": 32,
+		"cost": 225,
+		"requiredTech": "Industrialization",
+		"upgradesTo": "Machine Gun",
+		"obsoleteTech": "Ballistics",
+		"promotions": "Pride",
+		"attackSound": "machinegun"
 	}
 ]
