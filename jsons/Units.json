@@ -40,5 +40,19 @@
 		"upgradesTo": "Machine Gun",
 		"obsoleteTech": "Ballistics",
 		"attackSound": "machinegun"
+	},
+	{
+		"name": "Urutu",		
+		"replaces": "Tank",
+		"uniqueTo": "Brazil",
+		"unitType": "Armored",
+		"movement": 5,
+		"strength": 70,
+		"cost": 350,
+		"requiredTech": "Combined Arms",
+		"requiredResource": "Iron",
+		"upgradesTo": "Modern Armor",
+		"uniques": ["Can move after attacking", "Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
 	}
 ]
