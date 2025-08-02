@@ -9,7 +9,7 @@
 	{
 		"name": "Space Launch",
 		"replaces": "Academy",
-		"uniqueTo": "United States of America",
+		"uniqueTo": "China",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"science": 8,
 		"uniques": ["Great Improvement", "[+2 Science] <after discovering [Radar]>","[+2 Science] <after discovering [Computers]>",
@@ -24,7 +24,21 @@
 		"happiness": 1,
 		"turnsToBuild": 1,
 		"techRequired": "Philosophy",
-		"uniques": ["[+1 Culture, +2 Food] <after discovering [Ecology]>","[+2 Culture] <after discovering [Archaeology]>",
-			"[+2 Science] <after discovering [Scientific Theory]>","Unbuildable <after discovering [Archaeology]>", "Pillaging this improvement yields approximately [+10 Gold]"]
+		"uniques": ["[+1 Culture, +1 Food] <after discovering [Ecology]>","[+1 Culture] <after discovering [Archaeology]>",
+			"[+1 Science] <after discovering [Scientific Theory]>","Unbuildable <after discovering [Archaeology]>", "Pillaging this improvement yields approximately [+10 Gold]"]
+	},
+	{
+		"name": "U.S.A Base",
+		"replaces": "Citadel",
+		"uniqueTo": "United States of  America"
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": [
+			"Great Improvement",
+			"Gives a defensive bonus of [100]%",
+			"Adjacent enemy units ending their turn take [50] damage",
+			"Can be built just outside your borders",
+			"Gain control over [all] tiles in a [2]-tile radius",
+			"Removes removable features when built",
+            "Will not be replaced by automated units"]
 	}
 ]
