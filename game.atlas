@@ -1,5 +1,5 @@
 
-game10.png
+game11.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -81,6 +81,20 @@ BuildingIcons/Pandas Park
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Wind Energy
+  rotate: false
+  xy: 100, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/The Western Wall
+  rotate: false
+  xy: 200, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/BRICS+
   rotate: false
   xy: 600, 100
@@ -116,6 +130,13 @@ UnitIcons/MTC-300
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Ukraine Soldier
+  rotate: false
+  xy: 300, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Tiles/GN Platform
   rotate: false
   xy: 335, 134
@@ -147,6 +168,13 @@ ImprovementIcons/Space Launch
 ImprovementIcons/Amazon Part
   rotate: false
   xy: 500, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Pride
+  rotate: false
+  xy: 400, 200
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
