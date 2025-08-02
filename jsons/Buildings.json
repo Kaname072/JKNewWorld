@@ -21,6 +21,17 @@
 		"isNationalWonder": true
 	},
 	{
+		"name": "Wind Energy",
+		"replaces": "Windmill",
+		"uniqueTo": "Brazil",
+		"production": 2,
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["Must not be on [Snow]", "[+10]% Production when constructing [All] buildings [in this city]"],
+		"requiredTech": "Ecology"
+	},
+	{
 		"name": "BRICS+",
 		"happiness": 5,
 		"isWonder": true,
