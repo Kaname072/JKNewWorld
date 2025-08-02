@@ -172,13 +172,6 @@ ImprovementIcons/Amazon Part
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Pride
-  rotate: false
-  xy: 400, 200
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 
 game9.png
 size: 512, 128
