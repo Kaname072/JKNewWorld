@@ -1,7 +1,0 @@
-[
-  {
-    "name": "Pride"
-    "uniques": ["[+30]% Strength <for [Wounded] units>", "[-90]% weight to this choice for AI decisions"],
-		"unitTypes": ["Gunpowder","Armored","Ranged Gunpowder"]
-  }
-]
