@@ -29,6 +29,7 @@
 	{
 		"name": "Ukraine Soldier",
 		"replaces": "Gatling Gun",
+		"uniqueTo": "Ukraine",
 		"unitType": "Ranged Gunpowder",
 		"range": 1,
 		"movement": 2,
